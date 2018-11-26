@@ -5,7 +5,7 @@ Version History
 ~~~~~~~~~~~~~~~~~~~~~~
 - Drop support for Python 2.7, 3.3, 3.4
 - Drop support for Tornado < 4.2
-- Add support for Tornado 5.1 and async with ``AsyncIOHandlerMixin``
+- Add support for Tornado 5.1 and AsyncIO 
 
 `1.0.2`_ (20-Jun-2016)
 ~~~~~~~~~~~~~~~~~~~~~~
